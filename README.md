@@ -1,6 +1,5 @@
 # 2D-Linked-List
-/* Name: Kaitlynn_Pham
- Description: This program will create
+ This program will create
  a 2d linked list that traverses in all 4
  directions. It will create a matrix
  consisting of 3 character strings that
