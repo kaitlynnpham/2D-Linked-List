@@ -8,4 +8,4 @@
  Input:  length and width of the matrix
  Output: prints the matrix and outputs if trace was
  successful
-*/
+
