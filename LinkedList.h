@@ -1,5 +1,5 @@
 /*
- Name: Kaitlynn_Pham, 5005989243, 1004, AS8
+ Name: Kaitlynn_Pham
  Description: This program will create
  a 2d linked list that traverses in all 4
  directions. It will create a matrix
